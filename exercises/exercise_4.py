@@ -1,12 +1,12 @@
 # Your solution to Exercise 4
-grade = int(input("enter a number grade"))
+grade = int(input())
 if grade <=3 :
-  print("initial lvl")
+  print()
 elif grade <=6 :
-  print("intermediate lvl")
+  print()
 elif grade <=9:
-  print("sufficient lvl")
+  print()
 elif grade <=12:
-  print("high lvl")  
+  print()  
 else :
-  print("outside range")
+  print()

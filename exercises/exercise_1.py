@@ -1,12 +1,13 @@
 # Your solution to Exercise 1
-age = int(input("Enter both there ages"))
+age = int(input())
 
-alex = int(input("enter his age")
-tatyana = int(input("enter his age: "))
+alex = int(input())
+
+tatyana = int(input())
 if alex > tatyana:
-  print("alex is older than tatyana")  
+  print()  
 elif tatyana > alex:
-  print("tatyana is older than alex")
+  print()
 else:
-  print("they are the same age")
+  print()
 
